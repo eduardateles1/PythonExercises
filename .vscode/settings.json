@@ -1,0 +1,11 @@
+{
+    "python.python": "venv/bin/pyhton",
+    "code-runner.executorMap": {
+        "javascript": "node",
+        "python": "venv/bin/pyhton",
+       
+       
+        
+    }
+    
+}
